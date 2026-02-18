@@ -4,6 +4,10 @@ CVT assembly that relies on Hydraulic Rectification. Similar design to that of a
 a Continuous Variable Transmission that utilised a variable-displacement pump, operating on a 3-phase oscillating lever-arm system rather than the traditional rotating disk design. 
 The oscillating fluid dynamics resulting from the pump were then rectified into a direct current that was fed through a Savonius turbine, returning the alternating fluid current to direct, torque-altered rotational motion. 
 
+Link to OnShape File
+
+https://mtu.onshape.com/documents/f8888e84000959caaeb3da06/w/742f4f3632c74eea9bdb8f60/e/34dc6d0c9c764bc780632271?renderMode=0&uiState=6995ee15f46f2df64c8de738
+
 Commercially manufactured Parts
 
 Tubing:
